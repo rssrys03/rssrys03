@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rssrys03
-- 👀 I’m interested in learning Programming Techniques.
-- 🌱 I’m currently learning Full-Stack development.
+- 👀 I’m a Full-Stack Developer.
+- 🌱 I’m currently learning Full-Stack development in Salesforce.
 - 💞️ I’m looking to collaborate on web development and app projects.
 - 📫 How to reach me rosangelysreyes03@gmail.com
 
